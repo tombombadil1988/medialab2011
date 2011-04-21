@@ -2,6 +2,7 @@ body {
 	background-color: #fff;
 	margin:0px;
 	padding:0px;
+	overflow:hidden;
 }
 
 img {
@@ -23,6 +24,7 @@ img {
 .detail {
 	height:1px;
 	width:100%;
-	background-color:#fff;
+	background-color:#999;
+	opacity: 0;
 }
 

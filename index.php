@@ -12,16 +12,8 @@
     
 	<body>
     	<div class="row" id="row1">
-    		<div class="row_content" id="row_content1">
-				<img src="lib/img/cam1.jpg" alt="bild1">
-				<img src="lib/img/cam2.jpg" alt="bild1">
-				<img src="lib/img/cam3.jpg" alt="bild1">
-				<img src="lib/img/cam4.jpg" alt="bild1">
-				<img src="lib/img/cam5.jpg" alt="bild1">
-				<img src="lib/img/cam6.jpg" alt="bild1">
-				<img src="lib/img/cam7.jpg" alt="bild1">
-			</div>
-		</div>
+    		<a href="#" id="button">Toggle Effect</a>
+    	</div>
 		<div class="detail" id="detail1"></div>
 		
 		<div class="row" id="row2">
